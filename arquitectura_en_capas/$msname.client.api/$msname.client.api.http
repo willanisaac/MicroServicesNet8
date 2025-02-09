@@ -1,0 +1,6 @@
+@_msname.client.api_HostAddress = http://localhost:5010
+
+GET {{_msname.client.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
